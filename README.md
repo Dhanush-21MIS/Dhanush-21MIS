@@ -39,7 +39,7 @@ Always eager to learn, build, collaborate, and grow by contributing to meaningfu
 ### 🗄️ Tools, Databases & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode,Jupyter" />
 </p>
 
 ---
