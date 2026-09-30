@@ -33,13 +33,13 @@ Always eager to learn, build, collaborate, and grow by contributing to meaningfu
 </p>
 
 <p>
-  <strong>AI/ML:</strong> Pandas • NumPy • Scikit-learn • Deep Learning • Computer Vision • LLM • RAG
+  <strong>AI/ML:</strong> Pandas • NumPy • Scikit-learn • Deep Learning
 </p>
 
 ### 🗄️ Tools, Databases & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode" />
 </p>
 
 ---
@@ -91,4 +91,3 @@ Always eager to learn, build, collaborate, and grow by contributing to meaningfu
 
 ---
 
-### ⭐ Dream. Develop. Deliver.
