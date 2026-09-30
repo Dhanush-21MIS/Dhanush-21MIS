@@ -1,6 +1,6 @@
 # Hey there, I'm Dhanush 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Software+Engineering+Graduate;Full-Stack+Developer;Backend+Developer;AI%2FML+Developer;Building+Practical+AI+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Software+Engineering+Graduate;Full-Stack+Developer;Backend+Developer;AI%2FML+Developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
